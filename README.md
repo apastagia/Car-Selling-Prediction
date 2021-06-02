@@ -9,5 +9,6 @@ How to create requirements.txt file
 https://www.youtube.com/watch?v=YGDNRbKt_QQ
 
 pip freeze >> requirements.txt
+pip install -r requirements.txt
 
 RandomForest Algorithm
